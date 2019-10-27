@@ -1,0 +1,527 @@
+Movie{name='Phil Spector (2013)', generes=[Drama]}
+Movie{name='Dark Tide (2012)', generes=[Adventure, Drama, Thriller]}
+Movie{name='42 (2013)', generes=[Drama]}
+Movie{name='Disconnect (2012)', generes=[Drama, Thriller]}
+Movie{name='Grandmaster, The (Yi dai zong shi) (2013)', generes=[Action, Drama, IMAX]}
+Movie{name='English Teacher, The (2013)', generes=[Drama, Comedy]}
+Movie{name='Mud (2012)', generes=[Adventure, Drama, Crime]}
+Movie{name='Shaolin Temple (Shao Lin si) (1976)', generes=[Action, Adventure, Drama]}
+Movie{name='Syrup (2013)', generes=[Drama, Comedy]}
+Movie{name='Great Gatsby, The (2013)', generes=[Drama]}
+Movie{name='Only God Forgives (2013)', generes=[Drama, Thriller]}
+Movie{name='Captain America (1979)', generes=[Action, Drama]}
+Movie{name='Down Terrace (2009)', generes=[Drama, Crime, Comedy]}
+Movie{name='Frances Ha (2012)', generes=[Drama, Comedy]}
+Movie{name='Behind the Candelabra (2013)', generes=[Drama]}
+Movie{name='Way, Way Back, The (2013)', generes=[Drama, Comedy]}
+Movie{name='Much Ado About Nothing (2012)', generes=[Drama, Romance, Comedy]}
+Movie{name='Bling Ring, The (2013)', generes=[Drama, Crime]}
+Movie{name='Adam and Eve (National Lampoon's Adam & Eve) (2005)', generes=[Drama, Romance, Comedy]}
+Movie{name='World War Z (2013)', generes=[Action, Drama, Horror, IMAX]}
+Movie{name='Elysium (2013)', generes=[Action, Sci-Fi, Drama, IMAX]}
+Movie{name='White House Down (2013)', generes=[Action, Drama, Thriller, IMAX]}
+Movie{name='Passion (2012)', generes=[Drama, Thriller, Crime, Mystery]}
+Movie{name='The Spectacular Now (2013)', generes=[Drama, Romance, Comedy]}
+Movie{name='Lifeguard, The (2013)', generes=[Drama, Comedy]}
+Movie{name='Stuck in Love (2012)', generes=[Drama, Romance, Comedy]}
+Movie{name='Fruitvale Station (2013)', generes=[Drama]}
+Movie{name='Field in England, A (2013)', generes=[Drama, Thriller, Fantasy, War]}
+Movie{name='Drinking Buddies (2013)', generes=[Drama, Romance, Comedy]}
+Movie{name='Revenge for Jolly! (2012)', generes=[Drama, Comedy]}
+Movie{name='Blue Jasmine (2013)', generes=[Drama]}
+Movie{name='Great Beauty, The (Grande Bellezza, La) (2013)', generes=[Drama, Comedy]}
+Movie{name='Wind Rises, The (Kaze tachinu) (2013)', generes=[Drama, Animation, Romance]}
+Movie{name='Jobs (2013)', generes=[Drama]}
+Movie{name='Lee Daniels' The Butler (2013)', generes=[Drama]}
+Movie{name='About Time (2013)', generes=[Drama, Fantasy, Romance]}
+Movie{name='What If (2013)', generes=[Drama, Romance, Comedy]}
+Movie{name='Prisoners (2013)', generes=[Drama, Thriller, Mystery]}
+Movie{name='Rush (2013)', generes=[Action, Drama]}
+Movie{name='Short Term 12 (2013)', generes=[Drama]}
+Movie{name='Inescapable (2012)', generes=[Action, Drama, War]}
+Movie{name='Nebraska (2013)', generes=[Adventure, Drama]}
+Movie{name='Enough Said (2013)', generes=[Drama, Romance, Comedy]}
+Movie{name='Don Jon (2013)', generes=[Drama, Romance, Comedy]}
+Movie{name='Mood Indigo (L'écume des jours) (2013)', generes=[Drama, Fantasy]}
+Movie{name='Runner Runner (2013)', generes=[Drama, Thriller, Crime]}
+Movie{name='Blue Is the Warmest Color (La vie d'Adèle) (2013)', generes=[Drama, Romance]}
+Movie{name='Captain Phillips (2013)', generes=[Adventure, Drama, Thriller, IMAX]}
+Movie{name='Filth (2013)', generes=[Drama, Crime, Comedy]}
+Movie{name='Thief of Paris, The (Le voleur) (1967)', generes=[Drama, Crime, Comedy]}
+Movie{name='Carrie (2013)', generes=[Drama, Horror]}
+Movie{name='Counselor, The (2013)', generes=[Drama, Thriller, Crime]}
+Movie{name='Escape From Tomorrow (2013)', generes=[Drama, Horror, Fantasy]}
+Movie{name='Double, The (2013)', generes=[Drama, Thriller, Comedy]}
+Movie{name='12 Years a Slave (2013)', generes=[Drama]}
+Movie{name='All Is Lost (2013)', generes=[Action, Adventure, Drama]}
+Movie{name='Dallas Buyers Club (2013)', generes=[Drama]}
+Movie{name='Selfish Giant, The (2013)', generes=[Drama]}
+Movie{name='Last Vegas (2013)', generes=[Drama, Romance, Comedy]}
+Movie{name='Philomena (2013)', generes=[Drama, Comedy]}
+Movie{name='Book Thief, The (2013)', generes=[Drama, War, Children]}
+Movie{name='Red Flag (2012)', generes=[Drama, Romance, Comedy]}
+Movie{name='Day of the Doctor, The (2013)', generes=[Sci-Fi, Adventure, Drama]}
+Movie{name='Guilty of Romance (Koi no tsumi) (2011) ', generes=[Drama, Horror, Crime]}
+Movie{name='Inside Llewyn Davis (2013)', generes=[Drama]}
+Movie{name='Wolf of Wall Street, The (2013)', generes=[Drama, Crime, Comedy]}
+Movie{name='Mandela: Long Walk to Freedom (2013)', generes=[Drama]}
+Movie{name='Evangelion: 3.0 You Can (Not) Redo (2012)', generes=[Action, Drama, Animation]}
+Movie{name='All is Bright (2013)', generes=[Drama, Comedy]}
+Movie{name='American Hustle (2013)', generes=[Drama, Crime]}
+Movie{name='Secret Life of Walter Mitty, The (2013)', generes=[Adventure, Drama, Comedy]}
+Movie{name='Her (2013)', generes=[Sci-Fi, Drama, Romance]}
+Movie{name='Christmas Carol, A (1977)', generes=[Drama, Fantasy]}
+Movie{name='Lone Survivor (2013)', generes=[Action, Drama, Thriller, War]}
+Movie{name='Saving Mr. Banks (2013)', generes=[Drama, Comedy]}
+Movie{name='Zatoichi and the Chest of Gold (Zatôichi senryô-kubi) (Zatôichi 6) (1964)', generes=[Action, Drama]}
+Movie{name='Oldboy (2013)', generes=[Action, Drama, Mystery]}
+Movie{name='Snowpiercer (2013)', generes=[Action, Sci-Fi, Drama]}
+Movie{name='Only Old Men Are Going to Battle (V boy idut odni stariki) (1973)', generes=[Drama, War, Comedy]}
+Movie{name='Guest from the Future (Gostya iz buduschego) (1985)', generes=[Sci-Fi, Adventure, Drama]}
+Movie{name='Only Lovers Left Alive (2013)', generes=[Drama, Horror, Romance]}
+Movie{name='We Are What We Are (2013)', generes=[Drama, Horror, Thriller, Mystery]}
+Movie{name='Jack Ryan: Shadow Recruit (2014)', generes=[Action, Drama, Thriller, IMAX]}
+Movie{name='Hotel Chevalier (Part 1 of 'The Darjeeling Limited') (2007)', generes=[Drama]}
+Movie{name='Ernest & Célestine (Ernest et Célestine) (2012)', generes=[Adventure, Drama, Animation, Romance, Comedy, Children]}
+Movie{name='Drift (2013)', generes=[Drama]}
+Movie{name='Better Living Through Chemistry (2014)', generes=[Drama, Comedy]}
+Movie{name='Nymphomaniac: Volume I (2013)', generes=[Drama]}
+Movie{name='Monuments Men, The (2014)', generes=[Action, Drama, War]}
+Movie{name='Nymphomaniac: Volume II (2013)', generes=[Drama, Mystery]}
+Movie{name='Venus in Fur (La Vénus à la fourrure) (2013)', generes=[Drama]}
+Movie{name='Zero Theorem, The (2013)', generes=[Sci-Fi, Drama, Fantasy]}
+Movie{name='Winter's Tale (2014)', generes=[Drama, Fantasy, Mystery]}
+Movie{name='Cold Comes the Night (2013)', generes=[Drama, Thriller, Crime]}
+Movie{name='Grand Budapest Hotel, The (2014)', generes=[Drama, Comedy]}
+Movie{name='Oversimplification of Her Beauty, An (2012)', generes=[Drama, Animation, Romance, Comedy]}
+Movie{name='3 Days to Kill (2014)', generes=[Action, Drama, Crime]}
+Movie{name='Wrinkles (Arrugas) (2011)', generes=[Drama, Animation]}
+Movie{name='300: Rise of an Empire (2014)', generes=[Action, Drama, War, IMAX]}
+Movie{name='Bag Man, The (2014)', generes=[Drama, Thriller, Crime]}
+Movie{name='Need for Speed (2014)', generes=[Action, Drama, Crime, IMAX]}
+Movie{name='Barefoot (2014)', generes=[Drama, Romance, Comedy]}
+Movie{name='Veronica Mars (2014)', generes=[Drama, Crime, Comedy]}
+Movie{name='Son of God (2014)', generes=[Drama]}
+Movie{name='Why Don't You Play In Hell? (Jigoku de naze warui) (2013)', generes=[Action, Drama]}
+Movie{name='Noah (2014)', generes=[Adventure, Drama, IMAX]}
+Movie{name='King of Comedy (Hei kek ji wong) (1999)', generes=[Drama, Romance, Comedy]}
+Movie{name='Me and you (io e te) (2012)', generes=[Drama]}
+Movie{name='Calvary (2014)', generes=[Drama, Comedy]}
+Movie{name='God's Not Dead (2014)', generes=[Drama]}
+Movie{name='Cold in July (2014)', generes=[Drama, Thriller]}
+Movie{name='Transcendence (2014)', generes=[Sci-Fi, Drama, IMAX]}
+Movie{name='Brick Mansions (2014)', generes=[Action, Drama, Crime]}
+Movie{name='Locke (2013)', generes=[Drama]}
+Movie{name='Dance of Reality, The (Danza de la realidad, La) (2013)', generes=[Drama, Fantasy]}
+Movie{name='Million Dollar Arm (2014)', generes=[Drama, Comedy]}
+Movie{name='Jimi: All Is by My Side (2013)', generes=[Drama]}
+Movie{name='Bad Asses (Bad Ass 2) (2014)', generes=[Action, Drama]}
+Movie{name='Lilting (2014)', generes=[Drama]}
+Movie{name='The Fault in Our Stars (2014)', generes=[Drama, Romance]}
+Movie{name='Maps to the Stars (2014)', generes=[Drama]}
+Movie{name='Birdman: Or (The Unexpected Virtue of Ignorance) (2014)', generes=[Drama, Comedy]}
+Movie{name='Boyhood (2014)', generes=[Drama]}
+Movie{name='Jersey Boys (2014)', generes=[Drama, Musical]}
+Movie{name='Frank (2014)', generes=[Drama, Comedy, Mystery]}
+Movie{name='Honey (Miele) (2013)', generes=[Drama]}
+Movie{name='Colourful (Karafuru) (2010)', generes=[Drama, Fantasy, Animation, Mystery]}
+Movie{name='Babadook, The (2014)', generes=[Drama, Horror, Thriller]}
+Movie{name='Whiplash (2014)', generes=[Drama]}
+Movie{name='Gone Girl (2014)', generes=[Drama, Thriller]}
+Movie{name='Angriest Man in Brooklyn, The (2014)', generes=[Drama, Comedy]}
+Movie{name='And So It Goes (2014)', generes=[Drama, Romance, Comedy]}
+Movie{name='I Origins (2014)', generes=[Sci-Fi, Drama]}
+Movie{name='Get on Up (2014)', generes=[Drama, Musical]}
+Movie{name='Magic in the Moonlight (2014)', generes=[Drama, Romance, Comedy]}
+Movie{name='The Hundred-Foot Journey (2014)', generes=[Drama, Comedy]}
+Movie{name='White Frog (2012)', generes=[Drama]}
+Movie{name='I'll Follow You Down (2013)', generes=[Sci-Fi, Drama, Mystery]}
+Movie{name='Giver, The (2014)', generes=[Sci-Fi, Drama]}
+Movie{name='Pretty One, The (2013)', generes=[Drama, Comedy]}
+Movie{name='Revenge of the Green Dragons (2014)', generes=[Action, Drama, Crime]}
+Movie{name='If I Stay (2014)', generes=[Drama]}
+Movie{name='Two Days, One Night (Deux jours, une nuit) (2014)', generes=[Drama]}
+Movie{name='Coherence (2013)', generes=[Sci-Fi, Drama, Thriller, Mystery]}
+Movie{name='One I Love, The (2014)', generes=[Drama, Romance, Comedy]}
+Movie{name='Headshot (2011)', generes=[Drama, Thriller, Crime]}
+Movie{name='Pride (2014)', generes=[Drama, Comedy]}
+Movie{name='The Drop (2014)', generes=[Drama, Thriller, Crime]}
+Movie{name='20,000 Days on Earth (2014)', generes=[Documentary, Drama, Musical]}
+Movie{name='The Skeleton Twins (2014)', generes=[Drama]}
+Movie{name='Camp X-Ray (2014)', generes=[Drama]}
+Movie{name='Cesar Chavez (2014)', generes=[Drama]}
+Movie{name='Tale of Princess Kaguya, The (Kaguyahime no monogatari) (2013)', generes=[Drama, Fantasy, Animation]}
+Movie{name='This Is Where I Leave You (2014)', generes=[Drama, Comedy]}
+Movie{name='Angel's Egg (Tenshi no tamago) (1985)', generes=[Drama, Fantasy, Animation]}
+Movie{name='Tusk (2014)', generes=[Drama, Horror, Comedy]}
+Movie{name='Hector and the Search for Happiness (2014)', generes=[Adventure, Drama, Comedy]}
+Movie{name='Dracula Untold (2014)', generes=[Action, Drama, Fantasy]}
+Movie{name='Captive, The (2014)', generes=[Drama, Thriller, Crime]}
+Movie{name='Judge, The (2014)', generes=[Drama]}
+Movie{name='Fury (2014)', generes=[Action, Drama, War]}
+Movie{name='Salvation, The (2014)', generes=[Western, Drama]}
+Movie{name='Nightcrawler (2014)', generes=[Drama, Thriller, Crime]}
+Movie{name='Time Lapse (2014)', generes=[Sci-Fi, Drama, Thriller, Crime]}
+Movie{name='Ex Machina (2015)', generes=[Sci-Fi, Drama, Thriller]}
+Movie{name='Copenhagen (2014)', generes=[Adventure, Drama, Romance]}
+Movie{name='Generation War (2013)', generes=[Drama, War]}
+Movie{name='Leviathan (2014)', generes=[Drama]}
+Movie{name='Zulu (2013)', generes=[Drama, Thriller, Crime]}
+Movie{name='Tangerines (2013)', generes=[Drama]}
+Movie{name='Stalingrad (2013)', generes=[Action, Drama, War, IMAX]}
+Movie{name='You Are the Apple of My Eye (2011)', generes=[Drama, Romance, Comedy]}
+Movie{name='The Imitation Game (2014)', generes=[Drama, Thriller, War]}
+Movie{name='Inherent Vice (2014)', generes=[Drama, Crime, Romance, Comedy, Mystery]}
+Movie{name='Rudderless (2014)', generes=[Drama, Comedy]}
+Movie{name='Exodus: Gods and Kings (2014)', generes=[Action, Adventure, Drama]}
+Movie{name='Wild Tales (2014)', generes=[Drama, Thriller, Comedy]}
+Movie{name='The Longest Week (2014)', generes=[Drama, Comedy]}
+Movie{name='Miss Meadows (2014)', generes=[Drama]}
+Movie{name='Painted Skin (2008)', generes=[Action, Drama, Thriller]}
+Movie{name='The Theory of Everything (2014)', generes=[Drama, Romance]}
+Movie{name='Doctor Who: The Time of the Doctor (2013)', generes=[Adventure, Drama]}
+Movie{name='In the Heart of the Sea (2015)', generes=[Action, Adventure, Drama]}
+Movie{name='Jurassic World (2015)', generes=[Action, Sci-Fi, Adventure, Drama, Thriller]}
+Movie{name='Dragonheart 2: A New Beginning (2000)', generes=[Action, Adventure, Drama, Thriller, Fantasy, Comedy]}
+Movie{name=''71 (2014)', generes=[Action, Drama, Thriller, War]}
+Movie{name='Still Alice (2014)', generes=[Drama]}
+Movie{name='Courier (1987)', generes=[Drama, Romance, Comedy]}
+Movie{name='The Green Prince (2014)', generes=[Documentary, Drama, Thriller]}
+Movie{name='Dying of the Light (2014)', generes=[Drama, Thriller]}
+Movie{name='By the Gun (2014)', generes=[Drama, Thriller, Crime]}
+Movie{name='Kill the Messenger (2014)', generes=[Drama, Thriller, Crime, Mystery]}
+Movie{name='The Mule (2014)', generes=[Drama, Crime, Comedy]}
+Movie{name='Selma (2014)', generes=[Drama]}
+Movie{name='Unbroken (2014)', generes=[Drama, War]}
+Movie{name='Closer to the Moon (2013)', generes=[Drama, Comedy]}
+Movie{name='Mommy (2014)', generes=[Drama]}
+Movie{name='Wild (2014)', generes=[Drama]}
+Movie{name='Big Eyes (2014)', generes=[Drama]}
+Movie{name='Men, Women & Children (2014)', generes=[Drama, Comedy]}
+Movie{name='The Punisher: Dirty Laundry (2012)', generes=[Action, Drama, Crime]}
+Movie{name='A Man Called Blade (1977)', generes=[Western, Action, Drama, Thriller]}
+Movie{name='Into the Forest of Fireflies' Light (2011)', generes=[Drama, Fantasy, Animation]}
+Movie{name='PK (2014)', generes=[Drama, Fantasy, Romance, Comedy, Mystery]}
+Movie{name='The Fool (2014)', generes=[Drama]}
+Movie{name='Blackhat (2015)', generes=[Action, Drama, Thriller, Crime, Mystery]}
+Movie{name='By the Law (1926)', generes=[Drama]}
+Movie{name='Son of a Gun (2014)', generes=[Action, Drama, Crime]}
+Movie{name='The Hound of the Baskervilles (1988)', generes=[Drama, Horror, Crime, Mystery]}
+Movie{name='Houdini (2014)', generes=[Drama]}
+Movie{name='The Duke of Burgundy (2014)', generes=[Drama]}
+Movie{name='The Diary of Anne Frank (2009)', generes=[Drama, War]}
+Movie{name='Wicked Blood (2014)', generes=[Action, Drama, Thriller]}
+Movie{name='The Blue Lagoon (1949)', generes=[Drama, Romance]}
+Movie{name='In the Name of the King III (2014)', generes=[Action, Adventure, Drama, Fantasy]}
+Movie{name='Cake (2014)', generes=[Drama]}
+Movie{name='Kenny & Company (1976)', generes=[Drama, Comedy]}
+Movie{name='The Gambler (2014)', generes=[Drama, Thriller, Crime]}
+Movie{name='Fifty Shades of Grey (2015)', generes=[Drama, Romance]}
+Movie{name='Solyaris (1968)', generes=[Sci-Fi, Drama]}
+Movie{name='The Pacific (2010)', generes=[Action, Adventure, Drama, War]}
+Movie{name='Brooklyn (2015)', generes=[Drama, Romance]}
+Movie{name='The End of the Tour (2015)', generes=[Drama]}
+Movie{name='Experimenter (2015)', generes=[Drama]}
+Movie{name='Zipper (2015)', generes=[Drama, Thriller]}
+Movie{name='A Walk in the Woods (2015)', generes=[Adventure, Drama, Comedy]}
+Movie{name='True Story (2015)', generes=[Drama, Thriller, Mystery]}
+Movie{name='Eden (2014)', generes=[Drama]}
+Movie{name='Dope (2015)', generes=[Drama, Comedy]}
+Movie{name='Me and Earl and the Dying Girl (2015)', generes=[Drama]}
+Movie{name='The Stanford Prison Experiment (2015)', generes=[Drama, Thriller]}
+Movie{name='A Pigeon Sat on a Branch Reflecting on Existence (2014)', generes=[Drama, Comedy]}
+Movie{name='Wild Card (2015)', generes=[Action, Drama, Thriller, Crime]}
+Movie{name='Paper Towns (2015)', generes=[Drama, Romance, Mystery]}
+Movie{name='Boy Meets Girl (2015)', generes=[Drama, Romance, Comedy]}
+Movie{name='Victoria (2015)', generes=[Drama, Crime, Romance]}
+Movie{name='I'm Here (2010)', generes=[Drama]}
+Movie{name='The Last Five Years (2014)', generes=[Drama, Romance, Comedy, Musical]}
+Movie{name='Cloudburst (2011)', generes=[Adventure, Drama, Comedy]}
+Movie{name='Focus (2015)', generes=[Drama, Crime, Romance, Comedy]}
+Movie{name='The Second Best Exotic Marigold Hotel (2015)', generes=[Drama, Comedy]}
+Movie{name='McFarland, USA (2015)', generes=[Drama]}
+Movie{name='Run All Night (2015)', generes=[Action, Drama, Thriller, Crime]}
+Movie{name='Digging Up the Marrow (2014)', generes=[Drama, Horror, Thriller, Fantasy, Mystery]}
+Movie{name='Clown (2014)', generes=[Drama, Horror]}
+Movie{name='Cinderella (2015)', generes=[Drama, Fantasy, Romance, Children]}
+Movie{name='Kidnapping Mr. Heineken (2015)', generes=[Action, Drama, Thriller, Crime]}
+Movie{name='The Cobbler (2015)', generes=[Drama, Fantasy, Comedy]}
+Movie{name='While We're Young (2014)', generes=[Drama, Comedy]}
+Movie{name='Too Late for Tears (1949)', generes=[Film-Noir, Drama, Thriller, Crime, Mystery]}
+Movie{name='Midnight Special (2015)', generes=[Sci-Fi, Drama]}
+Movie{name='Legend No. 17 (2013)', generes=[Drama]}
+Movie{name='Woman in Gold (2015)', generes=[Drama]}
+Movie{name='The Road Within (2014)', generes=[Drama, Comedy]}
+Movie{name='Buzzard (2015)', generes=[Drama, Horror, Comedy]}
+Movie{name='Seve (2014)', generes=[Documentary, Drama]}
+Movie{name='Breathe (2014)', generes=[Drama]}
+Movie{name='The Longest Ride (2015)', generes=[Drama, Romance]}
+Movie{name='Girltrash: All Night Long (2014)', generes=[Drama, Crime, Comedy]}
+Movie{name='Sword of Vengeance (2014)', generes=[Action, Adventure, Drama]}
+Movie{name='Danny Collins (2015)', generes=[Drama, Comedy]}
+Movie{name='Kite (2014)', generes=[Action, Drama, Thriller, Crime, Mystery]}
+Movie{name='San Andreas (2015)', generes=[Action, Drama, Thriller]}
+Movie{name='Welcome to Me (2014)', generes=[Drama, Comedy]}
+Movie{name='Ricki and the Flash (2015)', generes=[Drama, Comedy]}
+Movie{name='Partisan (2015)', generes=[Drama, Thriller]}
+Movie{name='Just Before I Go (2014)', generes=[Drama, Comedy]}
+Movie{name='Carol (2015)', generes=[Drama, Romance]}
+Movie{name='Güeros (2014)', generes=[Drama, Comedy]}
+Movie{name='Maggie (2015)', generes=[Drama, Horror, Thriller]}
+Movie{name='5 to 7 (2014)', generes=[Drama, Romance, Comedy]}
+Movie{name='Afonya (1975)', generes=[Drama, Romance, Comedy]}
+Movie{name='My Love (2006)', generes=[Drama, Animation]}
+Movie{name='The Martian (2015)', generes=[Sci-Fi, Adventure, Drama]}
+Movie{name='Youth (2015)', generes=[Drama]}
+Movie{name='That Munchhausen (1979)', generes=[Drama, Fantasy, Comedy]}
+Movie{name='BMX Bandits (1983)', generes=[Adventure, Drama, Crime]}
+Movie{name='Aloha (2015)', generes=[Drama, Romance, Comedy]}
+Movie{name='Dragon Blade (2015)', generes=[Action, Adventure, Drama]}
+Movie{name='Inside Out (2015)', generes=[Adventure, Drama, Fantasy, Animation, Comedy, Children]}
+Movie{name='Love & Mercy (2014)', generes=[Drama]}
+Movie{name='The Hairdresser (2010)', generes=[Drama, Comedy]}
+Movie{name='Mr. Holmes (2015)', generes=[Drama, Mystery]}
+Movie{name='The Magnificent Ruffians (1979)', generes=[Action, Drama]}
+Movie{name='Black Mass (2015)', generes=[Drama, Crime]}
+Movie{name='Steve Jobs (2015)', generes=[Drama]}
+Movie{name='Macbeth (2015)', generes=[Drama]}
+Movie{name='The Face of an Angel (2015)', generes=[Drama]}
+Movie{name='Wild Horses (2015)', generes=[Drama, Crime]}
+Movie{name='The Squeeze (2015)', generes=[Drama, Comedy]}
+Movie{name='Da geht noch was! (2013)', generes=[Drama, Romance, Comedy]}
+Movie{name='Villain (1971)', generes=[Drama, Thriller, Crime]}
+Movie{name='April Morning (1988)', generes=[Drama]}
+Movie{name='Carnival Magic (1981)', generes=[Drama, Fantasy]}
+Movie{name='Magic Mike XXL (2015)', generes=[Drama, Comedy]}
+Movie{name='The Jungle Book (2016)', generes=[Adventure, Drama, Fantasy]}
+Movie{name='Sorrow (2015)', generes=[Drama, Horror, Crime]}
+Movie{name='The Walk (2015)', generes=[Adventure, Drama, Thriller]}
+Movie{name='13 Hours (2016)', generes=[Drama]}
+Movie{name='There Will Come a Day (2013)', generes=[Drama, Comedy]}
+Movie{name='Tokyo Tribe (2014)', generes=[Action, Sci-Fi, Drama, Crime]}
+Movie{name='Feast (2014)', generes=[Drama, Animation, Romance, Comedy, Children]}
+Movie{name='Dark Places (2015)', generes=[Drama, Thriller, Mystery]}
+Movie{name='Afro Samurai (2007)', generes=[Action, Adventure, Drama, Fantasy, Animation]}
+Movie{name='The Revenant (2015)', generes=[Adventure, Drama]}
+Movie{name='Irrational Man (2015)', generes=[Drama, Crime]}
+Movie{name='Southpaw (2015)', generes=[Action, Drama]}
+Movie{name='Sicario (2015)', generes=[Drama, Crime, Mystery]}
+Movie{name='Goodnight Mommy (Ich seh ich seh) (2014)', generes=[Drama, Horror, Thriller, Fantasy]}
+Movie{name='Love (2015)', generes=[Drama, Romance]}
+Movie{name='Room (2015)', generes=[Drama]}
+Movie{name='The Runner (2015)', generes=[Drama]}
+Movie{name='The Gift (2015)', generes=[Drama, Horror]}
+Movie{name='Men & Chicken (2015)', generes=[Drama, Comedy]}
+Movie{name='Secret in Their Eyes (2015)', generes=[Drama, Crime, Mystery]}
+Movie{name='Battle For Sevastopol (2015)', generes=[Drama, Romance, War]}
+Movie{name='Straight Outta Compton (2015)', generes=[Drama]}
+Movie{name='Tangerine (2015)', generes=[Drama, Comedy]}
+Movie{name='Every Secret Thing (2014)', generes=[Drama, Thriller, Crime, Mystery]}
+Movie{name='Joy (2015)', generes=[Drama, Comedy]}
+Movie{name='Victor Frankenstein (2015)', generes=[Sci-Fi, Drama, Horror]}
+Movie{name='Suffragette (2015)', generes=[Drama]}
+Movie{name='The Unauthorized Saved by the Bell Story (2014)', generes=[Drama, Comedy]}
+Movie{name='War Room (2015)', generes=[Drama]}
+Movie{name='The Danish Girl (2015)', generes=[Drama]}
+Movie{name='Autumn Marathon (1979)', generes=[Drama, Comedy]}
+Movie{name='Ordinary Miracle (1978)', generes=[Drama, Fantasy, Romance, Comedy]}
+Movie{name='Beasts of No Nation (2015)', generes=[Drama, War]}
+Movie{name='Demolition (2016)', generes=[Drama]}
+Movie{name='Our Brand Is Crisis (2015)', generes=[Drama, Comedy]}
+Movie{name='High Rise (2015)', generes=[Action, Sci-Fi, Drama]}
+Movie{name='Into the Forest (2015)', generes=[Sci-Fi, Drama]}
+Movie{name='Everest (2015)', generes=[Adventure, Drama, Thriller]}
+Movie{name='Pawn Sacrifice (2015)', generes=[Drama]}
+Movie{name='Burnt (2015)', generes=[Drama]}
+Movie{name='Jump In! (2007)', generes=[Drama, Romance, Comedy]}
+Movie{name='Ashby (2015)', generes=[Drama, Comedy]}
+Movie{name='The Circle (2016)', generes=[Sci-Fi, Drama, Thriller]}
+Movie{name='Silence (2016)', generes=[Drama, Thriller]}
+Movie{name='Bridge of Spies (2015)', generes=[Drama, Thriller]}
+Movie{name='The Great Hypnotist (2014)', generes=[Drama, Thriller, Mystery]}
+Movie{name='Chasuke's Journey (2015)', generes=[Drama, Comedy]}
+Movie{name='Unforgiven (2013)', generes=[Action, Drama, Crime]}
+Movie{name='Sex, Drugs & Taxation (2013)', generes=[Drama, Comedy]}
+Movie{name='Confessions of a Dangerous Mind (2002)', generes=[Drama, Thriller, Crime, Romance, Comedy]}
+Movie{name='The Perfect Guy (2015)', generes=[Drama, Thriller]}
+Movie{name='The Dressmaker (2015)', generes=[Drama, Thriller, Comedy]}
+Movie{name='Trumbo (2015)', generes=[Drama]}
+Movie{name='Our Lips Are Sealed (2000)', generes=[Drama, Comedy, Children]}
+Movie{name='Witch Hunt (1999)', generes=[Drama, Crime]}
+Movie{name='Concussion (2015)', generes=[Drama]}
+Movie{name='Dil To Pagal Hai (1997)', generes=[Drama, Romance, Comedy]}
+Movie{name='Creed (2015)', generes=[Drama]}
+Movie{name='Lost in the Sun (2015)', generes=[Action, Drama, Thriller]}
+Movie{name='Eros (2004)', generes=[Drama, Romance]}
+Movie{name='Doctor Who: Last Christmas (2014)', generes=[Sci-Fi, Adventure, Drama, Fantasy]}
+Movie{name='Doctor Who: The Doctor, the Widow and the Wardrobe (2011)', generes=[Adventure, Drama]}
+Movie{name='Doctor Who: Planet of the Dead (2009)', generes=[Sci-Fi, Adventure, Drama, Children]}
+Movie{name='Doctor Who: The Next Doctor (2008)', generes=[Sci-Fi, Adventure, Drama, Children]}
+Movie{name='A Perfect Day (2015)', generes=[Drama, Comedy]}
+Movie{name='The Lord's Lantern in Budapest (1999)', generes=[Drama, Comedy]}
+Movie{name='Chi-Raq (2015)', generes=[Drama, Comedy]}
+Movie{name='Truth (2015)', generes=[Drama]}
+Movie{name='Big Short, The (2015)', generes=[Drama]}
+Movie{name='Wizards of Waverly Place: The Movie (2009)', generes=[Sci-Fi, Adventure, Drama, Fantasy, Comedy, Children]}
+Movie{name='He Never Died (2015)', generes=[Drama, Horror, Comedy]}
+Movie{name='Nocturnal Animals', generes=[Drama, Thriller]}
+Movie{name='Swelter (2014)', generes=[Action, Drama, Thriller]}
+Movie{name='Sherlock: The Abominable Bride (2016)', generes=[Action, Drama, Thriller, Crime, Mystery]}
+Movie{name='Doctor Who: The Husbands of River Song (2015)', generes=[Sci-Fi, Drama, Comedy]}
+Movie{name='Exposed (2016)', generes=[Drama]}
+Movie{name='Stonewall (2015)', generes=[Drama]}
+Movie{name='Welcome to Happiness (2015)', generes=[Drama, Fantasy, Comedy]}
+Movie{name='Risen (2016)', generes=[Drama, Children]}
+Movie{name='The Survivalist (2015)', generes=[Sci-Fi, Drama, Thriller]}
+Movie{name='The Finest Hours (2016)', generes=[Drama, Thriller]}
+Movie{name='Embrace of the Serpent (2016)', generes=[Adventure, Drama]}
+Movie{name='Race (2016)', generes=[Drama]}
+Movie{name='Desierto (2016)', generes=[Drama]}
+Movie{name='The Wait (2015)', generes=[Drama]}
+Movie{name='War and Peace (2016)', generes=[Drama, Romance]}
+Movie{name='Rabbits (2002)', generes=[Drama, Fantasy, Comedy]}
+Movie{name='Tears for Sale (2008)', generes=[Drama, Fantasy, Comedy]}
+Movie{name='The Neon Demon (2016)', generes=[Drama, Horror, Mystery]}
+Movie{name='Eye in the Sky (2016)', generes=[Drama, Thriller, War]}
+Movie{name='Florence Foster Jenkins (2016)', generes=[Drama, Comedy]}
+Movie{name='Sing Street (2016)', generes=[Drama]}
+Movie{name='Zoom (2015)', generes=[Drama, Animation, Comedy]}
+Movie{name='The Huntsman Winter's War (2016)', generes=[Action, Adventure, Drama, Fantasy]}
+Movie{name='The Man Who Knew Infinity (2016)', generes=[Drama]}
+Movie{name='Despite the Falling Snow (2016)', generes=[Drama, Thriller, Romance]}
+Movie{name='Money Monster (2016)', generes=[Drama, Thriller]}
+Movie{name='Bakuman (2015)', generes=[Drama, Comedy]}
+Movie{name='I Am Wrath (2016)', generes=[Action, Drama, Thriller, Crime]}
+Movie{name='Snowden (2016)', generes=[Drama, Thriller]}
+Movie{name='SORI: Voice from the Heart (2016)', generes=[Sci-Fi, Drama]}
+Movie{name='The Shallows (2016)', generes=[Drama, Thriller]}
+Movie{name='The Handmaiden (2016)', generes=[Drama, Thriller, Romance]}
+Movie{name='Karate Bullfighter (1975)', generes=[Action, Drama]}
+Movie{name='All Yours (2016)', generes=[Drama, Romance, Comedy]}
+Movie{name='Captain Fantastic (2016)', generes=[Drama]}
+Movie{name='Toni Erdmann (2016)', generes=[Drama]}
+Movie{name='The Meddler (2016)', generes=[Drama, Comedy]}
+Movie{name='Café Society (2016)', generes=[Drama, Romance, Comedy]}
+Movie{name='Swiss Army Man (2016)', generes=[Drama, Romance, Comedy]}
+Movie{name='The Fundamentals of Caring (2016)', generes=[Drama]}
+Movie{name='The Bremen Town Musicians (1969)', generes=[Drama, Fantasy, Animation]}
+Movie{name='Pelé: Birth of a Legend (2016)', generes=[Drama]}
+Movie{name='Genius (2016)', generes=[Drama]}
+Movie{name='The Wooden Horse (1950)', generes=[Drama, War]}
+Movie{name='Sympathy for the Underdog (1971)', generes=[Action, Drama, Crime]}
+Movie{name='Indignation (2016)', generes=[Drama]}
+Movie{name='Goat (2016)', generes=[Drama]}
+Movie{name='The Adderall Diaries (2015)', generes=[Action, Drama, Thriller]}
+Movie{name='Hazard (2005)', generes=[Action, Drama, Thriller]}
+Movie{name='Nerve (2016)', generes=[Drama, Thriller]}
+Movie{name='Sully (2016)', generes=[Drama]}
+Movie{name='The Grandmother (1970)', generes=[Action, Drama]}
+Movie{name='The Infiltrator (2016)', generes=[Drama, Crime]}
+Movie{name='Batman: The Killing Joke (2016)', generes=[Action, Drama, Crime, Animation]}
+Movie{name='Hell or High Water (2016)', generes=[Drama, Crime]}
+Movie{name='Kingsglaive: Final Fantasy XV (2016)', generes=[Action, Sci-Fi, Adventure, Drama, Fantasy, Animation]}
+Movie{name='Body (2015)', generes=[Drama, Horror, Thriller]}
+Movie{name='Moonlight', generes=[Drama]}
+Movie{name='Deepwater Horizon (2016)', generes=[Drama]}
+Movie{name='The Accountant (2016)', generes=[Drama, Thriller, Crime]}
+Movie{name='Imperium (2016)', generes=[Drama, Thriller, Crime]}
+Movie{name='Steins;Gate the Movie: The Burden of Déjà vu (2013)', generes=[Sci-Fi, Drama, Animation]}
+Movie{name='Your Name. (2016)', generes=[Drama, Fantasy, Animation, Romance]}
+Movie{name='Hacksaw Ridge (2016)', generes=[Drama, War]}
+Movie{name='Over the Garden Wall (2013)', generes=[Adventure, Drama, Animation]}
+Movie{name='Endless Poetry (2016)', generes=[Drama, Fantasy]}
+Movie{name='The Girl with All the Gifts (2016)', generes=[Sci-Fi, Drama, Horror, Thriller]}
+Movie{name='Go Figure (2005)', generes=[Drama, Comedy, Children]}
+Movie{name='La La Land (2016)', generes=[Drama, Romance, Comedy]}
+Movie{name='London Town (2016)', generes=[Drama]}
+Movie{name='Jack Reacher: Never Go Back (2016)', generes=[Action, Drama, Thriller, Crime, Mystery]}
+Movie{name='Flowers for Algernon (2000)', generes=[Drama]}
+Movie{name='Manchester by the Sea (2016)', generes=[Drama]}
+Movie{name='Lion (2016)', generes=[Drama]}
+Movie{name='Alesha Popovich and Tugarin the Dragon (2004)', generes=[Drama, Animation, Comedy]}
+Movie{name='The African Doctor (2016)', generes=[Drama, Comedy]}
+Movie{name='A Silent Voice (2016)', generes=[Drama, Animation, Romance]}
+Movie{name='Split (2017)', generes=[Drama, Horror, Thriller]}
+Movie{name='Passengers (2016)', generes=[Sci-Fi, Adventure, Drama, Romance]}
+Movie{name='Hidden Figures (2016)', generes=[Drama]}
+Movie{name='Fences (2016)', generes=[Drama]}
+Movie{name='The Founder (2016)', generes=[Drama]}
+Movie{name='Iron Man (1931)', generes=[Drama]}
+Movie{name='A Dog's Purpose (2017)', generes=[Drama, Comedy]}
+Movie{name='A Street Cat Named Bob (2016)', generes=[Drama, Comedy]}
+Movie{name='The Good Boy (2016)', generes=[Drama, Comedy, Children]}
+Movie{name='T2: Trainspotting (2017)', generes=[Drama, Crime]}
+Movie{name='100 Streets (2016)', generes=[Drama]}
+Movie{name='Mercury Plains (2016)', generes=[Action, Adventure, Drama]}
+Movie{name='Call Me by Your Name (2017)', generes=[Drama, Romance]}
+Movie{name='Mudbound (2017)', generes=[Drama]}
+Movie{name='Ghost in the Shell (2017)', generes=[Action, Sci-Fi, Drama]}
+Movie{name='Fifty Shades Darker (2017)', generes=[Drama, Romance]}
+Movie{name='Buster's Mal Heart (2017)', generes=[Drama, Mystery]}
+Movie{name='Free Fire (2017)', generes=[Action, Drama, Crime]}
+Movie{name='Mulholland Dr. (1999)', generes=[Drama, Romance, Mystery]}
+Movie{name='CHiPS (2017)', generes=[Action, Drama, Comedy]}
+Movie{name='Table 19 (2017)', generes=[Drama, Comedy]}
+Movie{name='Gifted (2017)', generes=[Drama]}
+Movie{name='Band of Brothers (2001)', generes=[Action, Drama, War]}
+Movie{name='The Fate of the Furious (2017)', generes=[Action, Drama, Thriller, Crime]}
+Movie{name='Mini's First Time (2006)', generes=[Drama, Crime, Comedy]}
+Movie{name='The Hero (2017)', generes=[Drama]}
+Movie{name='The Death of Louis XIV (2016)', generes=[Drama]}
+Movie{name='The Beguiled (2017)', generes=[Western, Drama, Thriller]}
+Movie{name='Okja (2017)', generes=[Action, Sci-Fi, Adventure, Drama]}
+Movie{name='Rough Night (2017)', generes=[Drama, Comedy]}
+Movie{name='Mystère à la Tour Eiffel (2015)', generes=[Drama, Thriller, Mystery]}
+Movie{name='Stefan Zweig: Farewell to Europe (2016)', generes=[Drama]}
+Movie{name='The Prime Gig (2000)', generes=[Drama, Romance]}
+Movie{name='War for the Planet of the Apes (2017)', generes=[Action, Sci-Fi, Adventure, Drama]}
+Movie{name='The Square (2017)', generes=[Drama]}
+Movie{name='War Machine (2017)', generes=[Drama, War, Comedy]}
+Movie{name='Black Mirror: White Christmas (2014)', generes=[Sci-Fi, Drama, Horror, Thriller, Mystery]}
+Movie{name='Dunkirk (2017)', generes=[Action, Drama, Thriller, War]}
+Movie{name='Belladonna of Sadness (1973)', generes=[Drama, Fantasy, Animation]}
+Movie{name='Good Time (2017)', generes=[Drama, Crime]}
+Movie{name='Shot Caller (2017)', generes=[Action, Drama, Thriller, Crime]}
+Movie{name='Bliss (2012)', generes=[Drama]}
+Movie{name='Alles Inklusive (2014)', generes=[Drama, Comedy]}
+Movie{name='Mother! (2017)', generes=[Drama, Horror, Thriller, Mystery]}
+Movie{name='Cage Dive (2017)', generes=[Drama, Horror, Thriller]}
+Movie{name='Little Boxes (2017)', generes=[Drama, Comedy]}
+Movie{name='Three Billboards Outside Ebbing, Missouri (2017)', generes=[Drama, Crime]}
+Movie{name='Murder on the Orient Express (2017)', generes=[Drama, Crime, Mystery]}
+Movie{name='I, Tonya (2017)', generes=[Drama]}
+Movie{name='Front Cover (2016)', generes=[Drama, Romance, Comedy]}
+Movie{name='Loving Vincent (2017)', generes=[Drama, Crime, Animation]}
+Movie{name='Emerald Green (2016)', generes=[Adventure, Drama, Fantasy, Romance]}
+Movie{name='Wonder Wheel (2017)', generes=[Drama]}
+Movie{name='LBJ (2017)', generes=[Drama]}
+Movie{name='Roman J. Israel, Esq. (2017)', generes=[Drama, Thriller]}
+Movie{name='Darkest Hour (2017)', generes=[Drama, War]}
+Movie{name='The Shape of Water (2017)', generes=[Adventure, Drama, Fantasy]}
+Movie{name='Molly's Game (2017)', generes=[Drama]}
+Movie{name='Wonder (2017)', generes=[Drama]}
+Movie{name='Daddy's Home 2 (2017)', generes=[Drama, Comedy]}
+Movie{name='The Shining (1997)', generes=[Drama, Horror, Thriller]}
+Movie{name='The Disaster Artist (2017)', generes=[Drama, Comedy]}
+Movie{name='The Post (2017)', generes=[Drama, Thriller]}
+Movie{name='The Greatest Showman (2017)', generes=[Drama]}
+Movie{name='Phantom Thread (2017)', generes=[Drama, Romance]}
+Movie{name='The Purple Sea (2009)', generes=[Drama]}
+Movie{name='The Commuter (2018)', generes=[Drama, Thriller, Crime, Mystery]}
+Movie{name='Patti Rocks (1988)', generes=[Drama, Comedy]}
+Movie{name='Elsa & Fred (2005)', generes=[Drama, Romance, Comedy]}
+Movie{name='First Reformed (2017)', generes=[Drama, Thriller]}
+Movie{name='Death Wish (2018)', generes=[Action, Drama, Thriller, Crime]}
+Movie{name='Love, Simon (2018)', generes=[Drama, Comedy]}
+Movie{name='A Quiet Place (2018)', generes=[Drama, Horror, Thriller]}
+Movie{name='I Kill Giants (2018)', generes=[Drama, Thriller, Fantasy]}
+Movie{name='Jurassic World: Fallen Kingdom (2018)', generes=[Action, Sci-Fi, Adventure, Drama, Thriller]}
+Movie{name='Dogman (2018)', generes=[Drama, Crime]}
+Movie{name='Boundaries (2018)', generes=[Drama, Comedy]}
+Movie{name='BlacKkKlansman (2018)', generes=[Drama, Crime, Comedy]}
+Movie{name='Tilt (2011)', generes=[Drama, Romance]}
+Movie{name='John From (2015)', generes=[Drama]}
+Movie{name='Liquid Truth (2017)', generes=[Drama]}
+Movie{name='anohana: The Flower We Saw That Day - The Movie (2013)', generes=[Drama, Animation]}
+Movie{name='Silver Spoon (2014)', generes=[Drama, Comedy]}
+Movie{name='Flint (2017)', generes=[Drama]}
